@@ -1,5 +1,8 @@
 # PericyclicTL
-Data generation notebooks for pericyclic datasets. For Diels–Alder reaction, see https://github.com/angusketo/DA_DataExtraction
+
+These notebooks are for regenerating reaction data used in an upcoming publication.
+
+Data generation notebooks for Cope and Claisen, Ene, and Nazarov datasets are here. For Diels–Alder reaction, see https://github.com/angusketo/DA_DataExtraction
 
 Extracting these datasets requires a Reaxys subscription. Once the reactions have been downloaded to a .csv format, the notebooks can be used.
 
