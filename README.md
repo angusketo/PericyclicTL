@@ -7,6 +7,7 @@ Data generation notebooks for Cope and Claisen, Ene, and Nazarov datasets are he
 Extracting these datasets requires a Reaxys subscription. Once the reactions have been downloaded to a .csv format, the notebooks can be used.
 
 RDKit Version: 2020.09.1
+
   Later versions of RDKit should work but the SMILES canonicalization method changed in an update. A different RDKit SMILES canonicalization method might cause issues.
 
 Atom mapping can be done via RXNMapper: https://github.com/rxn4chemistry/rxnmapper (Access date: 10 December 2021)
